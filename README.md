@@ -25,12 +25,10 @@ Collection of custom WordPress themes, page templates, and reusable components d
 
 ## 🛠️ Tech Stack
 
-CMS: WordPress (Custom Themes)
-Languages: PHP, HTML, CSS, JavaScript
-Frameworks: Bootstrap, Custom CSS Grid
+CMS: WordPress (Custom Themes)<br>
+Languages: PHP, HTML, CSS, JavaScript<br>
+Frameworks: Bootstrap, Custom CSS Grid<br>
 Page Builders: Elementor, Custom Gutenberg Blocks
-
-text
 
 ## 🎯 Features
 
